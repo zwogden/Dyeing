@@ -13,3 +13,14 @@ True Black: C = 100, M = 100, Y = 0, K = 100
 Jacquard Acid Dyes
 
 Cherry Red: C = 0, M = 91, Y = 77, K = 8
+
+By Percentage
+
+| Color            | C      | M      | Y      | K      |
+|------------------|--------|--------|--------|--------|
+| Deep Magenta     |    -   | 56.33% | 26.58% | 17.09% |
+| Brilliant Yellow |    -   |  6.67% | 93.33% |    -   |
+| Peacock Blue     | 51.63% | 36.19% |    -   | 48.57% |
+| Electric Blue    | 42.77% | 30.12% |    -   | 27.11% |
+| True Black       | 33.33% | 33.33% |    -   | 33.33% |
+| Cherry Red       | 51.70% | 43.75% |  4.55% |    -   |
